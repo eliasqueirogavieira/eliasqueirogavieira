@@ -36,6 +36,7 @@ As an electronics engineer with a passion for technology, I have a unique skill 
 <img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 <br />
 <br>
+<br>
 
 ---
 
@@ -46,6 +47,7 @@ As an electronics engineer with a passion for technology, I have a unique skill 
 ![Elias1 GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasqueirogavieira&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=eliasqueirogavieira&theme=gruvbox&border_radius=4.5) -->
+<br>
 
 ---
 
