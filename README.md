@@ -36,9 +36,6 @@ As an electronics engineer with a passion for technology, I have a unique skill 
 <img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 <br />
 <br>
-<br>
-
----
 
 <br>
 
@@ -47,13 +44,9 @@ As an electronics engineer with a passion for technology, I have a unique skill 
 ![Elias1 GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasqueirogavieira&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=eliasqueirogavieira&theme=gruvbox&border_radius=4.5) -->
-<br>
 
 ---
 
 <details>
  <summary><h3>👨‍💻 Elias' Coding Journey</h3></summary>
  I've had a fascination with technology since my early days learning Java and C programming in 2009. However, it wasn't until I began studying electronics engineering in 2016 that I fully immersed myself in the world of code. Over the years, I've honed my skills in C, Python, VHDL, and other programming languages, finding a particular love for Python in the realm of digital signal processing. My interest in the field only grew as I delved into machine learning and became captivated by the endless possibilities it offers. I have taken it upon myself to expand my knowledge in this field, gaining proficiency in various libraries and APIs to deliver exceptional results. Currently, I am constantly pushing myself to grow, learning new programming languages, frameworks, and technologies such as Docker, AWS, and Django. My ultimate goal is to make a significant impact in the tech industry by using my skills and passion to bring innovative solutions to life.
-
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
