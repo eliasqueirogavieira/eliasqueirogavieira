@@ -15,7 +15,7 @@ As an electronics engineer with a passion for technology, I have a unique skill 
 <a href="https://hub.docker.com/u/eliasqueirogavieira">
   <img align="left" alt="Elias' Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </a>
-<br />
+<br>
 <br>
 
 ---
@@ -34,10 +34,10 @@ As an electronics engineer with a passion for technology, I have a unique skill 
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Raspberry" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
 <img align="left" alt="Arduino" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
-<br />
+<br>
 <br>
 
-<br>
+---
 
 ### 📊 Stats
 
