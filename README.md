@@ -40,6 +40,7 @@ As an electronics engineer with a passion for technology, I have a unique skill 
 #
 
 <br>
+
 ### 📊 Stats
 
 ![Elias1 GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasqueirogavieira&show_icons=true&theme=gruvbox)
