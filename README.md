@@ -37,7 +37,7 @@ As an electronics engineer with a passion for technology, I have a unique skill 
 <br />
 <br>
 
-#
+---
 
 <br>
 
@@ -47,7 +47,7 @@ As an electronics engineer with a passion for technology, I have a unique skill 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=eliasqueirogavieira&theme=gruvbox&border_radius=4.5) -->
 
-#
+---
 
 <details>
  <summary><h3>👨‍💻 Elias' Coding Journey</h3></summary>
