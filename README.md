@@ -22,19 +22,19 @@ As an electronics engineer with a passion for technology, I have a unique skill 
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Python" width= "5%" style= "padding-right:10px;" src= "https://www.svgrepo.com/show/452091/python.svg"/>
-<img align= "left" alt= "Java" width= "5%" style= "padding-right:10px;" src= "https://www.svgrepo.com/show/452234/java.svg"/>
-<img align= "left" alt= "PostgreSQL" width= "5%" style= "padding-right:10px;" src= "https://www.svgrepo.com/show/354200/postgresql.svg"/>
-<img align= "left" alt= "Django" width= "5%" style= "padding-right:10px;" src= "https://www.svgrepo.com/show/373554/django.svg"/>
-<img align = left alt = Angular width = 5% style = padding-right:10px; src = https://www.svgrepo.com/show/353396/angular-icon.svg />
-<img align = left alt = TensorFlow width = 5% style = padding-right:10px; src = https://i.imgur.com/UPPENnF.png/>
-<img align = left alt = PyTorch width = 5% style = padding-right:10px; src = https://www.svgrepo.com/show/354240/pytorch.svg/>
-<img align="left" alt="Pandas" width="5%" style="padding-right:10px;" src="https://i.imgur.com/8Tp5Jjq.png"/>
-<img align="left" alt="Numpy" width="5%" style="padding-right:10px;" src="https://www.svgrepo.com/show/354127/numpy.svg"/>
-<img align="left" alt="OpenCV" width="5%" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
-<img align="left" alt="MATLAB" width= "5%" style= "padding-right:10px;" src= "https://www.svgrepo.com/show/373830/matlab.svg"/>
-<img align = left alt = Linux width = 5% style = padding-right:10px; src = https://i.imgur.com/LA7TCp6.png />
-<img align = left alt = Git width = 5% style = padding-right:10px; src = https://i.imgur.com/ARvMfFW.png />
+<img align="left" alt="Python" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://www.svgrepo.com/show/452091/python.svg"/>
+<img align="left" alt="Java" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://www.svgrepo.com/show/452234/java.svg"/>
+<img align="left" alt="PostgreSQL" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://www.svgrepo.com/show/354200/postgresql.svg"/>
+<img align="left" alt="Django" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://www.svgrepo.com/show/373554/django.svg"/>
+<img align="left" alt="Angular" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://www.svgrepo.com/show/353396/angular-icon.svg"/>
+<img align="left" alt="TensorFlow" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://i.imgur.com/UPPENnF.png"/>
+<img align="left" alt="PyTorch" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://www.svgrepo.com/show/354240/pytorch.svg"/>
+<img align="left" alt="Pandas" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://i.imgur.com/8Tp5Jjq.png"/>
+<img align="left" alt="Numpy" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://www.svgrepo.com/show/354127/numpy.svg"/>
+<img align="left" alt="OpenCV" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
+<img align="left" alt="MATLAB" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://www.svgrepo.com/show/373830/matlab.svg"/>
+<img align="left" alt="Linux" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://i.imgur.com/LA7TCp6.png"/>
+<img align="left" alt="Git" width="5%" style="padding-right:10px;padding-bottom:10px" src="https://i.imgur.com/ARvMfFW.png"/>
 <br>
 <br>
 
