@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="20%">
 
-**`Electronics Engineer & Backend Developer & Machine Learning Enthusiast`**
+**`Python & Java Developer - Machine Learning Enthusiast`**
 
 As an electronics engineer with a passion for technology, I have a unique skill set that allows me to bring creative and innovative solutions to any project. With a focus on continuous learning, I have expanded my expertise to include machine learning, adding a powerful tool to my arsenal. I am dedicated to utilizing my skills and knowledge to build impactful and intelligent systems that drive growth and progress. Whether it's through my work as a developer or my ongoing study of machine learning, I am constantly striving to make a positive impact in the field of technology.
 
